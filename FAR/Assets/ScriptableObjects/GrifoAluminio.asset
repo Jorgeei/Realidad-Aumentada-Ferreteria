@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d39680bb099d79d4eb3b5ab548ecda06, type: 3}
+  m_Name: GrifoAluminio
+  m_EditorClassIdentifier: 
+  ItemName: "GRIFER\xCDAS"
+  ItemImage: {fileID: 21300000, guid: 9de1d47ab0bc7834dbfecaae3bcf927c, type: 3}
+  ItemDescription: THAMES
+  Item3DModel: {fileID: 8455176217760822617, guid: 270cff33a837e614da994e09262df365, type: 3}
